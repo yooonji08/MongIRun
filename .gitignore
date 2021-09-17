@@ -58,13 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# JPEG
-*.jpg
-*.jpeg
-
-# Portable Network Graphics
-*.png
-
 # Created by https://www.toptal.com/developers/gitignore/api/font
 # Edit at https://www.toptal.com/developers/gitignore?templates=font
 
